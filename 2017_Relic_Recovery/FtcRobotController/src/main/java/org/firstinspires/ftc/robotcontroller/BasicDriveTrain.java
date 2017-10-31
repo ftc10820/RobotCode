@@ -78,17 +78,17 @@ public class BasicDriveTrain {
         }
         drive(BRAKE);
     }
-    public void allWheels(short s) {
-        frontLeft.setPower(s);
-        backLeft.setPower(s);
-        frontRight.setPower(s);
-        backRight.setPower(s);
+    public void allWheels(double d) {
+        frontLeft.setPower(d);
+        backLeft.setPower(d);
+        frontRight.setPower(d);
+        backRight.setPower(d);
     }
-    public void drive(short s) {
-        frontLeft.setPower(-s);
-        backLeft.setPower(-s);
-        frontRight.setPower(s);
-        backRight.setPower(s);
+    public void drive(double d) {
+        frontLeft.setPower(-d);
+        backLeft.setPower(-d);
+        frontRight.setPower(d);
+        backRight.setPower(d);
     }
     public void waitTime(long ms) {
         try {
