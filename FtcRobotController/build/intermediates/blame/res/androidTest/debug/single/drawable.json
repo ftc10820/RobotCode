@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/milan/Downloads/ftc_app-master 3/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/black_border.xml",
+        "source": "/Users/milan/.android/build-cache/494b9b1ff3416365e7472b075781138dad99fcc3/output/res/drawable/black_border.xml"
+    },
+    {
+        "merged": "/Users/milan/Downloads/ftc_app-master 3/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/icon_robotcontroller.png",
+        "source": "/Users/milan/.android/build-cache/625ff4513548f5fb55e03b87a649268a74f332ed/output/res/drawable/icon_robotcontroller.png"
+    },
+    {
+        "merged": "/Users/milan/Downloads/ftc_app-master 3/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/icon_menu.png",
+        "source": "/Users/milan/.android/build-cache/625ff4513548f5fb55e03b87a649268a74f332ed/output/res/drawable/icon_menu.png"
+    },
+    {
+        "merged": "/Users/milan/Downloads/ftc_app-master 3/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/button_shape.xml",
+        "source": "/Users/milan/.android/build-cache/b0f1d44b3a12970e8ca13855ee749901a40f6bfc/output/res/drawable/button_shape.xml"
+    },
+    {
+        "merged": "/Users/milan/Downloads/ftc_app-master 3/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/feedback_shape_orange.xml",
+        "source": "/Users/milan/.android/build-cache/d3fb7921b2a69b3092b2c5378bf0cb3dfd7f5810/output/res/drawable/feedback_shape_orange.xml"
+    }
+]

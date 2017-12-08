@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/milan/.android/build-cache/d3fb7921b2a69b3092b2c5378bf0cb3dfd7f5810/output/jars/libs/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e118dd0900e4a18fb928ebb8df2d9fbda78f2b5d">
+        <dex dex="/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/pre-dexed/debug/gson-2.8.0_2469e3ed306e3a88bed89c2a942184159aef424b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milan/.android/build-cache/d3fb7921b2a69b3092b2c5378bf0cb3dfd7f5810/output/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a214d3b1b12e72f4fb0d5d5d8d0ec43c96de2b5">
+        <dex dex="/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_a67d5d643cdf72cc3f68c183d647e0de30dcaa9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milan/.android/build-cache/b0f1d44b3a12970e8ca13855ee749901a40f6bfc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7558c70f3b0b473ca494059b37f16ca880ac43fd">
+        <dex dex="/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/pre-dexed/debug/classes_465ee43cc1c6f739abcf4535498643ccfcbe43d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milan/.android/build-cache/d3fb7921b2a69b3092b2c5378bf0cb3dfd7f5810/output/jars/libs/javac.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c576121aac49e547b39aedfb1daa29782db4166c">
+        <dex dex="/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/pre-dexed/debug/javac_cb9313c1096fbcac7de10cc2d65d15524459fb9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milan/.android/build-cache/625ff4513548f5fb55e03b87a649268a74f332ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e444b561b0feba789cac93c5db61f08ef8c25ee6">
+        <dex dex="/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/pre-dexed/debug/classes_15c15c5a889b09895c5ace24cf6b8e4732ac9d61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milan/.android/build-cache/d3fb7921b2a69b3092b2c5378bf0cb3dfd7f5810/output/jars/libs/gson-extras-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b30c2655badcc7ce97f84e49f777b7dd154bad57">
+        <dex dex="/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/pre-dexed/debug/gson-extras-0.2.1_45b5529b968d00f0c1d5fb499b754133e1c02150.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milan/.android/build-cache/5de6ccd0f509d9d828dcb264e4c1397fa3bb7547/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/pre-dexed/debug/classes_9f58cf3e061da5fe4fde84a876c5f85214c5e81b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milan/.android/build-cache/d3fb7921b2a69b3092b2c5378bf0cb3dfd7f5810/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91b46366eb9f8203073ee2935087c097c888c0ed">
+        <dex dex="/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_07726b19210acca0bdffff1bc28aba276ae4f4b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milan/.android/build-cache/3891a038a51c0013c66a70284e1bef1625c0ca1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/pre-dexed/debug/classes_d72a7bdb41a10cf358ec47f7fafdcb7c379a951f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milan/.android/build-cache/d3fb7921b2a69b3092b2c5378bf0cb3dfd7f5810/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5d8f95b7b91c8a132c514f5dbe75340305e6883b">
+        <dex dex="/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/pre-dexed/debug/classes_1fecf7500e0eef858cf088e5dcea7414a5db09e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milan/Downloads/ftc_app-master 3/FtcRobotController/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="08a024c1cb6f9847d2f3ec7ca056b94b2abe4162">
+        <dex dex="/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/pre-dexed/debug/classes_4e7e49cde49e53842af95d4a9a510036ff931b99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milan/.android/build-cache/76616dcd431c9ce987935e3326771edb1ff94257/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6c6d1584a392ebfee01efd98e6caaf6a9e5ac51d">
+        <dex dex="/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/pre-dexed/debug/classes_f5e30c110cecd7a90901ccbf315ae55a6c467da0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milan/.android/build-cache/494b9b1ff3416365e7472b075781138dad99fcc3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ce86a6340781abf3d876eba190efa34ae92d2f9">
+        <dex dex="/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/pre-dexed/debug/classes_4e522fa4d2e2ad177de7b448287dbe646b0426f9.jar" />
+    </item>
+
+</items>

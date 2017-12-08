@@ -1,0 +1,4 @@
+#Tue Dec 05 19:45:40 EST 2017
+base.0=/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

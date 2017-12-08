@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/milan/.android/build-cache/625ff4513548f5fb55e03b87a649268a74f332ed/output/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/milan/.android/build-cache/494b9b1ff3416365e7472b075781138dad99fcc3/output/res/menu/menu_server.xml"
+    },
+    {
+        "merged": "/Users/milan/Downloads/ftc_app-master 3/TeamCode/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/milan/Downloads/ftc_app-master 3/FtcRobotController/build/intermediates/bundles/default/res/menu/ftc_robot_controller.xml"
+    }
+]
